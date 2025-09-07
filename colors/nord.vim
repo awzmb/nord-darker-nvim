@@ -244,7 +244,7 @@ call s:hi("TabLineSel", s:nord8_gui, s:nord3_gui, s:nord8_term, s:nord3_term, "N
 "+--- Window ---+
 call s:hi("Title", s:nord4_gui, "", "NONE", "", "NONE", "")
 call s:hi("VertSplit", s:nord1_gui, s:nord1_gui, s:nord3_term, s:nord1_term, "NONE", "")
-call s:hi("WinSeparator", s:nord1_gui, s:nord1_gui, s:nord3_term, s:nord1_term, "NONE", "")
+call s:hi("WinSeparator", s:nord1_gui, s:nord0_gui, s:nord3_term, s:nord1_term, "NONE", "")
 
 "+----------------------+
 "+ Language Base Groups +
